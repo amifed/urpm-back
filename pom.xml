@@ -23,7 +23,7 @@
         <mapper.version>2.1.5</mapper.version>
         <druid.version>1.1.9</druid.version>
         <fastjson.version>1.2.62</fastjson.version>
-        <swagger2.version>2.9.2</swagger2.version>
+        <swagger2.version>2.10.0</swagger2.version>
         <shiro.version>1.5.0</shiro.version>
         <shiro-redis.version>3.2.3</shiro-redis.version>
         <jwt.version>3.9.0</jwt.version>
